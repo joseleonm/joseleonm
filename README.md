@@ -29,7 +29,7 @@ I'm open to collaborations involving:
 
 #### 📫 Contact
 - Email: **luis.leon@cimat.mx**  
-- Website: *http://cimat.mx/~luis.leon/*
+- Website: *https://www.cimat.mx/~luis.leon/*
 
 ---
 
